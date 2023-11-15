@@ -1,0 +1,40 @@
+{
+    "images": [
+        {
+            "full": "images/mine/full size/Butchhard.jpg",
+            "thumb": "images/mine/thumb/Butchhard_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Deep_Cove.jpg",
+            "thumb": "images/mine/thumb/Deep_Cove_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Ducks.jpg",
+            "thumb": "images/mine/thumb/Ducks_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/English_Beach.jpg",
+            "thumb": "images/mine/thumb/English_Beach_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Ferry_Sea.jpg",
+            "thumb": "images/mine/thumb/Ferry_Sea_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Victoria_Beach.jpg",
+            "thumb": "images/mine/thumb/Victoria_Beach_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Victoria_Parliament.jpg",
+            "thumb": "images/mine/thumb/Victoria_Parliament_Thumb.jpg"
+        },
+        {
+            "full": "images/mine/full size/Yat_Garden.jpg",
+            "thumb": "images/mine/thumb/Yat_Garden_Thumb.jpg"
+        }
+    ],
+    "icons": {
+        "active": "images/mine/pepe/pepe.png",
+        "inactive": "images/mine/pepe/pepesad.png"
+    }
+}
